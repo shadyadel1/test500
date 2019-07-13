@@ -1,6 +1,6 @@
 token=NTk5NTcyMTc5NTQxMjk1MTA5.XSnJVA.0vpDwFcBIvxn247W0FbiK0LvH1U
 owner=388441104271540224
-prefix=4
+prefix=$
 game=By Shady $help
 stayinchannel=true
 songinstatus=false
