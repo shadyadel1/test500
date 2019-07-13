@@ -1,6 +1,6 @@
-token=NTI5MDIwNjEyMzY3MzUxODA4.DwzB_Q.UmfQNNj9YT8_Dh9wnbGFP6iqZJM
-owner=526722343519649813
-prefix=$
-game= By Nasser| $help
+token=NTk5NTcyMTc5NTQxMjk1MTA5.XSnJVA.0vpDwFcBIvxn247W0FbiK0LvH1U
+owner=388441104271540224
+prefix=4
+game=By Shady $help
 stayinchannel=true
 songinstatus=false
